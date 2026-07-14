@@ -21,7 +21,8 @@
   → **Polysemy problem**: "apple" (fruit) and "apple" (company) get the
   *same* vector. Informally, the vector behaves like an "average" of all
   the contexts the word appeared in during training.
-
+  Problem of word embedding - "Average meaning Problem" means same word will be given same vector even though means differnt things
+  like bank (river bank) and bank(financal bank) both will have same vector here 
 ## Self-Attention
 - Produces a **contextual embedding**: each word's final vector depends
   on the other words in the same sentence.
