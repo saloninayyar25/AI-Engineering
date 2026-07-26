@@ -38,4 +38,4 @@ the heart of transformers — also solves a separate, later problem: static
 word embeddings (Word2Vec/GloVe) give a word the *same* vector no matter the
 context, which breaks down for polysemous words like "apple" (fruit vs.
 company). Self-attention produces **contextual embeddings** instead, fixing
-this.
+this.  
