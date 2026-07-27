@@ -1,287 +1,119 @@
-# AI-Engineering
+# 🚀 AI Engineering Roadmap
 
-# Hi there 👋, I'm Saloni Nayyar
-
-<h3 align="center">
-Computer Science Graduate | Aspiring AI Engineer | Generative AI • LLMs • RAG • AI Agents
-</h3>
-
-<p align="center">
-Passionate about building intelligent AI applications, exploring Large Language Models, and contributing to open source while continuously learning and growing.
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=saloninayyar25&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
+> A public learning journey documenting my transition from Computer Science graduate to AI Engineer by building real-world projects, exploring Large Language Models (LLMs), and mastering modern AI engineering practices.
 
 ---
 
-# 👩‍💻 About Me
+## 👋 About This Repository
 
-🎓 Computer Science Graduate from **University of Delhi**
+This repository serves as my public AI Engineering journal.
 
-🤖 Aspiring **AI Engineer**
+Rather than simply watching tutorials, I am documenting everything I build throughout my AI Engineering roadmap—from basic LLM API calls to production-ready AI applications.
 
-💡 Passionate about **Machine Learning, Deep Learning, Generative AI, LLMs, RAG, AI Agents and MLOps**
+Every week contains source code, experiments, notes, and practical implementations based on the concepts I learn.
 
-🌱 Currently learning everything required to become an industry-ready AI Engineer.
+My goal is simple:
 
-🚀 Building AI projects, contributing to Open Source, and documenting my learning journey.
-
----
-
-# 🚀 Current Focus
-
-- 🤖 Generative AI
-- 🧠 Large Language Models (LLMs)
-- 📚 Retrieval Augmented Generation (RAG)
-- 🔗 LangChain
-- 🌐 LangGraph
-- 🤖 AI Agents
-- ⚡ FastAPI
-- ☁️ AWS
-- 🐳 Docker
-- 🔄 MLOps
-- 🚀 AI Deployment
-- 📈 System Design for AI Applications
+> **Learn → Build → Document → Improve → Share**
 
 ---
 
-# 📂 What You'll Find Here
+## 🎯 Objectives
 
-- 🤖 AI Projects
-- 🧠 LLM Applications
-- 📚 RAG Systems
-- 🔥 AI Agents
-- 💻 Python Projects
-- 📄 Research Work
-- 🌱 Open Source Contributions
-- 📖 Learning Repositories
+* Learn AI Engineering from fundamentals to deployment
+* Build every project alongside the course
+* Understand concepts instead of memorizing them
+* Maintain clean, production-style code
+* Create a portfolio of real AI applications
+* Track consistent progress in public
 
 ---
 
-# 📚 Currently Learning
+## 🗺️ Roadmap
 
-- Large Language Models
-- Retrieval Augmented Generation (RAG)
-- LangChain
-- LangGraph
-- MCP
-- AI Agents
-- FastAPI
-- Docker
-- AWS
-- CI/CD
-- MLOps
-- Deployment
-- Vector Databases
-- Prompt Engineering
+* [ ] Week 1 — LLM Fundamentals & API Basics
+* [ ] Week 2 — Prompt Engineering & Structured Outputs
+* [ ] Week 3 — Retrieval-Augmented Generation (RAG)
+* [ ] Week 4 — Advanced RAG & Evaluation
+* [ ] Week 5 — AI Agents & Tool Calling
+* [ ] Week 6 — LangGraph & Multi-Agent Systems
+* [ ] Week 7 — Guardrails, Security & Production
+* [ ] Week 8 — Deployment & Capstone Project
 
 ---
 
-# 🛠 Tech Stack
+## 📂 Repository Structure
 
-## 💻 Languages
+```text
+ai-engineering-roadmap/
 
-<p>
+├── Week-01/
+├── Week-02/
+├── Week-03/
+├── Week-04/
+├── Week-05/
+├── Week-06/
+├── Week-07/
+└── Week-08/
+```
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-</p>
+Each week contains daily implementations, experiments, and notes.
 
 ---
 
-## 🤖 Artificial Intelligence
+## 💻 Tech Stack
 
-<p>
+* Python
+* Git & GitHub
+* OpenRouter
+* OpenAI-Compatible APIs
+* Prompt Engineering
+* Large Language Models (LLMs)
 
-<img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Computer%20Vision-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NLP-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Large%20Language%20Models-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAG-darkgreen?style=for-the-badge"/>
-
-</p>
+> More technologies will be added as the roadmap progresses.
 
 ---
 
-## 📚 Python Libraries
+## 📈 Current Progress
 
-<p>
+🚧 Currently working through **Week 1**.
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-</p>
+Progress will be updated after every completed lesson.
 
 ---
 
-## ⚙️ Frameworks & Tools
+## ⭐ Final Goal
 
-<p>
+By the end of this roadmap, this repository will include a complete AI Engineering portfolio featuring:
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
-
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab"/>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
-
-</p>
+* Production-ready AI applications
+* RAG systems
+* AI Agents
+* LangGraph workflows
+* End-to-end projects
+* Deployment examples
+* Comprehensive documentation
 
 ---
 
-## 🗄 Databases
+## 🤝 Contributions
 
-<p>
+This repository is primarily for documenting my learning journey.
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+However, suggestions, improvements, and constructive feedback are always welcome.
 
-</p>
-
----
-
-# 🔬 Research Interests
-
-- Deepfake Detection
-- Computer Vision
-- Explainable AI
-- Large Language Models
-- AI Agents
-- Responsible AI
-- Multimodal AI
+If you find this repository useful, consider giving it a ⭐.
 
 ---
 
-# 🌱 Open Source
+## 📜 License
 
-I recently started contributing to Open Source and enjoy collaborating with developers while learning industry best practices through real-world projects.
-
----
-
-# 🎯 Goals for 2026
-
-- ✅ Become an AI Engineer
-- ✅ Build 20+ AI Projects
-- ✅ Master LLMs
-- ✅ Build Production-ready RAG Systems
-- ✅ Learn LangGraph & AI Agents
-- ✅ Master MLOps
-- ✅ Deploy AI Applications
-- ✅ Contribute to Open Source
-- ✅ Crack AI Engineer Interviews
+This project is licensed under the MIT License.
 
 ---
 
-# 📈 GitHub Stats
+## 🙌 Acknowledgements
 
-<p align="center">
+A huge thanks to the creators and educators who share high-quality AI Engineering knowledge with the community and make learning accessible.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saloninayyar25&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saloninayyar25&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=saloninayyar25&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-[![Saloni's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saloninayyar25&theme=tokyo-night)](https://github.com/saloninayyar25)
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saloninayyar25&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 💼 Featured Projects
-
-🚀 Coming Soon...
-
-- 🤖 AI Chatbot
-- 📚 RAG Application
-- 🧠 LLM Projects
-- 🎯 Machine Learning Projects
-- 📊 Data Science Projects
-- 🔥 AI Agent Applications
-
----
-
-# 💡 Learning Philosophy
-
-> **"The best way to learn AI is to build AI."**
-
-Every project is an opportunity to learn something new. I believe in learning publicly, sharing knowledge, contributing to the community, and continuously improving.
-
----
-
-# 📫 Connect With Me
-
-📧 Email: **YOUR_EMAIL**
-
-💼 LinkedIn: **https://linkedin.com/in/saloninayyar**
-
-🐙 GitHub: **https://github.com/saloninayyar25**
-
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
-</h3>
-
-<p align="center">
-
-Learning • Building • Sharing • Growing 🚀
-
-</p>
+This repository contains my own implementations, notes, and experiments created while following along and expanding upon those lessons.
