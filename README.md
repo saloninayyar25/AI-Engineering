@@ -2,7 +2,6 @@
 
 > A public learning journey documenting my transition from Computer Science graduate to AI Engineer by building real-world projects, exploring Large Language Models (LLMs), and mastering modern AI engineering practices.
 
-
 ---
 
 ## 👋 About This Repository
